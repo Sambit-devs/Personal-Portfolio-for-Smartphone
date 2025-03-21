@@ -25,6 +25,15 @@ p {
   margin: 0;
 }
 
+.project-image {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+
 .btn {
   width: 120px;
   padding: 16px;
